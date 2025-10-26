@@ -1,3 +1,4 @@
+![Screenshot_2025-10-26-14-49-48-628_com miui gallery](https://github.com/user-attachments/assets/327b6d73-dd8a-431d-871e-8ddb6e593282)
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
